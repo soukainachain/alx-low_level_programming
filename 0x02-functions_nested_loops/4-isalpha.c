@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * _isalpha check if character is a letter
+ * _isalpha - check if character is a letter
  *          both lowercase or uppercase
  *
- * 0c: takes input from other function
+ * @c: takes input from other function.
  *
  * Return: 1 is c if true else 0
 */
